@@ -123,7 +123,7 @@ After installation, verify that the package loads correctly:
 import kronrod
 
 x, w1, w2 = kronrod.kronrod(3)
-print(x)   # [0.96049127 0.77459667 0.43424375 0.        ]
+print(x)  # [0.96049127 0.77459667 0.43424375 0.        ]
 print(w1)  # [0.10465623 0.26848809 0.40139741 0.45091654]
 print("kronrod is working!")
 ```

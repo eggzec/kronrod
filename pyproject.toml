@@ -9,7 +9,7 @@ authors = [
 ]
 maintainers = [
     { name = "Saud Zahir", email = "m.saud.zahir@gmail.com" },
-    { name = "M Laraib Ali", email = "laraibg786@outlook.com" }
+    { name = "M Laraib Ali", email = "laraibg786@outlook.com" },
 ]
 readme = "README.md"
 license = "LGPL-2.1"
