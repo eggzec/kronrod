@@ -1,0 +1,16 @@
+! ---------- main module -----------------------------------------------
+python module _kronrod
+    interface
+
+        subroutine kronrod(n, eps, x, w1, w2)
+            intent(c) kronrod
+            intent(c)
+            integer intent(c, in) :: n
+            double precision intent(c, in) :: eps
+            double precision intent(c, out), dimension(n + 1) :: x
+            double precision intent(c, out), dimension(n + 1) :: w1
+            double precision intent(c, out), dimension(n + 1) :: w2
+        end subroutine kronrod
+
+    end interface
+end python module _kronrod
