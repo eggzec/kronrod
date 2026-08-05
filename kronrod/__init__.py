@@ -64,7 +64,7 @@ def kronrod(
     )
 
 
-def kronrod_adjust(  # noqa: PLR0913, PLR0917
+def kronrod_adjust(  # ruff: ignore[too-many-arguments, too-many-positional-arguments]
     a: float,
     b: float,
     n: int,
