@@ -1,4 +1,6 @@
-# kronrod
+![Kronrod](assets/kronrod-banner.png)
+
+# Kronrod
 
 **Gauss-Kronrod Quadrature Rule Computation for Python**
 
