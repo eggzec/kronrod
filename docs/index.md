@@ -1,4 +1,4 @@
-![Kronrod](assets/kronrod-banner.png)
+![Kronrod](https://raw.githubusercontent.com/eggzec/kronrod/master/docs/assets/kronrod-banner.png)
 
 # Kronrod
 
