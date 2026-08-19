@@ -13,6 +13,8 @@ extra:
 
 theme:
   name: material
+  logo: assets/kronrod-icon.svg
+  favicon: assets/kronrod-icon.png
   features:
     - content.code.copy
 
